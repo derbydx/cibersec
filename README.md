@@ -19,14 +19,16 @@ El objetivo es crear un recurso de consulta personal que me ayude a **aprender y
 
 ---
 
-## 🛠️ Herramientas para Ganar Experiencia Práctica
+## 🛠️ Experiencia Práctica y Laboratorios
 
-Aquí listo los entornos y plataformas que utilizo para poner en práctica mis conocimientos de ciberseguridad en un entorno legal y seguro:
+En esta sección documento el progreso y las soluciones de diversos retos y entornos de práctica.
 
+### **[➡️ Ver Soluciones de OverTheWire - Bandit (Nivel Inicial)](Laboratorios/Bandit/Nivel_00_a_01.md)**
+
+Otros entornos que utilizo para practicar:
 * **CTF (Capture The Flag):** Plataformas como **TryHackMe** y **Hack The Box** para resolver desafíos de seguridad.
-* **Laboratorios Virtuales:** Mi entorno local de virtualización con **Kali Linux** y máquinas objetivo (ej. Metasploitable).
-* **Bug Bounties (Estudio):** Análisis de programas de recompensas de errores para aprender sobre vulnerabilidades reales.
-* **Herramientas Clave:** Práctica constante con **Nmap**, **Wireshark**, y **Burp Suite**.
+* **Laboratorios Virtuales:** Mi entorno local de virtualización con Kali Linux.
+* **Herramientas Clave:** Práctica constante con Nmap, Wireshark, y Burp Suite.
 
 ---
 
