@@ -19,6 +19,19 @@ El objetivo es crear un recurso de consulta personal que me ayude a **aprender y
 
 ---
 
+---
+
+## 🛠️ Herramientas para Ganar Experiencia Práctica
+
+Aquí listo los entornos y plataformas que utilizo para poner en práctica mis conocimientos de ciberseguridad en un entorno legal y seguro:
+
+* **CTF (Capture The Flag):** Plataformas como **TryHackMe** y **Hack The Box** para resolver desafíos de seguridad.
+* **Laboratorios Virtuales:** Mi entorno local de virtualización con **Kali Linux** y máquinas objetivo (ej. Metasploitable).
+* **Bug Bounties (Estudio):** Análisis de programas de recompensas de errores para aprender sobre vulnerabilidades reales.
+* **Herramientas Clave:** Práctica constante con **Nmap**, **Wireshark**, y **Burp Suite**.
+
+---
+
 ### 🚀 Contacto
 
 Puedes encontrarme en:
