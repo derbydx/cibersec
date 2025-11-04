@@ -19,8 +19,6 @@ El objetivo es crear un recurso de consulta personal que me ayude a **aprender y
 
 ---
 
----
-
 ## 🛠️ Herramientas para Ganar Experiencia Práctica
 
 Aquí listo los entornos y plataformas que utilizo para poner en práctica mis conocimientos de ciberseguridad en un entorno legal y seguro:
