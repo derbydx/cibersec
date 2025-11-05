@@ -8,7 +8,7 @@ La contraseña para el Nivel 2 está almacenada en el directorio home del usuari
 
 1.  **Conexión SSH:** Nos conectamos al servidor usando la contraseña obtenida del Nivel 0.
     * **Usuario:** `bandit1`
-    * **Contraseña:** **[La contraseña real del Nivel 1]**
+    * **Contraseña:** **[ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If]**
 <img width="477" height="152" alt="image" src="https://github.com/user-attachments/assets/3999b563-e993-46b7-9920-c694a3566718" />
 
 2.  **El Desafío del Guion (`-`):** Si intentamos leer el archivo usando el comando `cat -`, el programa `cat` interpretará el guion como una señal para leer desde la entrada estándar (teclado), no como un nombre de archivo.
