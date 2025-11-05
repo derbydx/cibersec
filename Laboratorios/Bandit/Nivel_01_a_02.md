@@ -15,6 +15,7 @@ La contraseña para el Nivel 2 está almacenada en el directorio home del usuari
 
 3.  **La Solución (Ruta Relativa):** Para forzar a `cat` a tratar el guion como un nombre de archivo en el directorio actual, debemos anteponer la ruta relativa al directorio actual (`./`).
     * **Comando para obtener la contraseña:** `cat ./-`
+
 <img width="328" height="71" alt="image" src="https://github.com/user-attachments/assets/ac7f015c-dae8-4db3-9025-4b1cf0b88f43" />
 
     * **Resultado (Password Nivel 2):** **[263JGJPfgU6LtdEvgfWU1XP5yac29mFx]**
