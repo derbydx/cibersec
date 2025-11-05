@@ -11,7 +11,7 @@ El objetivo es conectarse al servidor SSH y encontrar la contraseña para el Niv
     * **Contraseña:** `bandit0` (es la misma que el usuario en este primer nivel).
 2.  **Encontrar la Contraseña:** Una vez dentro del servidor, la contraseña para el siguiente nivel se encuentra en el archivo `readme`.
     * **Comando:** `cat readme`
-    * **Resultado (Password Nivel 1):** [Aquí va la contraseña que encontraste]
+    * **Resultado (Password Nivel 1):** [ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If]
 
 ---
 
