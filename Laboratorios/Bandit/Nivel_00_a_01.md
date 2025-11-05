@@ -15,8 +15,7 @@ El objetivo es conectarse al servidor SSH y encontrar la contraseña para el Niv
     * **Comando:** `ls` para ver los archivos disponibles   
     * **Comando:** `cat readme` para leer el archivo readme
     * **Resultado (Password Nivel 1):** [ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If]
-
----![Uploading image.png…]()
+    * <img width="591" height="200" alt="image" src="https://github.com/user-attachments/assets/c55da6bf-a403-448e-bf71-244693e3c760" />
 
 
 [➡️ Siguiente Nivel: Nivel 1 al 2](Nivel_01_a_02.md) 
