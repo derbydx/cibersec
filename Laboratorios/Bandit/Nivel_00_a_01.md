@@ -10,7 +10,7 @@ El objetivo es conectarse al servidor SSH y encontrar la contraseña para el Niv
     * **Comando:** `ssh bandit0@bandit.labs.overthewire.org -p 2220`
     * **Contraseña:** `bandit0` (es la misma que el usuario en este primer nivel).
 2.  **Encontrar la Contraseña:** Una vez dentro del servidor, la contraseña para el siguiente nivel se encuentra en el archivo `readme`.
-    * **Comando:** 'ls' para ver los archivos disponibles   
+    * **Comando:** `ls` para ver los archivos disponibles   
     * **Comando:** `cat readme` para leer el archivo readme
     * **Resultado (Password Nivel 1):** [ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If]
 
