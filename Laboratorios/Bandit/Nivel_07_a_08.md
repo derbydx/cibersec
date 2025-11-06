@@ -13,7 +13,7 @@ La contraseña para el Nivel 8 está almacenada en el archivo **`data.txt`** y s
 2.  **Estrategia de Búsqueda:** Utilizamos el comando **`grep`** para buscar de forma eficiente la palabra clave dentro del contenido del archivo.
 
 3.  **Ejecución del Comando `grep`:**
-    * **Comando:** `grep millionth data.txt`
+    * **Comando:** `grep "millionth" data.txt`
 
     * **Resultado de la Búsqueda:**
         ```
