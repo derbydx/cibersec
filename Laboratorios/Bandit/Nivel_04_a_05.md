@@ -25,7 +25,7 @@ La contraseña para el Nivel 5 está almacenada en el **único archivo legible p
 
 4.  **Leer la Contraseña:** Usamos `cat` en el archivo identificado como legible por humanos.
     * **Comando:** `cat ./-file07`
-    * **Resultado (Password Nivel 5):** **[2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ]**
+    * **Resultado (Password Nivel 5):** **[4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw]**
 
 ---
 
