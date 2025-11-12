@@ -1,4 +1,4 @@
-![Portada](portada_full_red_team.jpg)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/06efddc7-fe9f-48cc-96bf-9a11b90644d3" />
 
 # Índice — *Full Red Team: Ethical Hacking*
 
